@@ -1,0 +1,17 @@
+.container-card {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-end;
+    justify-content: space-evenly;
+    gap: 50px;
+    background-color: rgb(142, 140, 140);
+}
+
+.card {
+    width: 25vw;
+    height: 40vh;
+    border: 1px black solid;
+    border-radius: 4px;
+    background-color: rgb(219, 226, 233);
+    text-align: center;
+}
